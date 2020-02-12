@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPalindromeTestProblem", "ShortestPalindromeTestProblem\ShortestPalindromeTestProblem.csproj", "{E2543B68-45F0-4ED1-B731-6B39EEBA3598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPalindromeTestProblem.Tests", "ShortestPalindromeTestProblem.Tests\ShortestPalindromeTestProblem.Tests.csproj", "{77252CC4-A132-4B53-BD19-BCE21DD4EB93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{E2543B68-45F0-4ED1-B731-6B39EEBA3598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2543B68-45F0-4ED1-B731-6B39EEBA3598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2543B68-45F0-4ED1-B731-6B39EEBA3598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77252CC4-A132-4B53-BD19-BCE21DD4EB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77252CC4-A132-4B53-BD19-BCE21DD4EB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77252CC4-A132-4B53-BD19-BCE21DD4EB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77252CC4-A132-4B53-BD19-BCE21DD4EB93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
